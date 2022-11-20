@@ -1,11 +1,10 @@
 ## Hey 👋, I'm Shaurabh Pandey!  
 
 ### Glad to see you here!  
-I’m an aspiring data scientist who is adept in analyzing, interpreting large datasets, developing new forecasting models, and generating profitable data-driven solutions .I have a strong attention to detail, and a significant ability to work in team environments.
+Data Scientist with a strong background in Statistics and Problem-solving and a flair for leveraging data and deriving appropriate business solutions.
 
-I am skilled in Python, SQL , Tableau, Power BI,  Dashboard creation, data analysis, Statistical analysis, advanced machine learning and deep learning concepts. Passionate about delivering actionable insights from complex data, drive data-driven decision making, and developing end to end deep learning applications.  
+I have worked on several ML and Deep Learning projects like automated question answering, recommender systems, sentiment analysis and time series forecasting. I am Skilled in Python, SQL, Microsoft Excel, Dashboard storytelling, Data Analysis, Statistical analysis, Advanced Machine Learning and Deep Learning concepts. Passionate about delivering actionable insights from complex data, powering data-driven decision-making, and developing end-to-end deep learning applications. 
   
-
 <br/>  
 
 ## 💫 Rapidfire:
